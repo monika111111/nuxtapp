@@ -4,13 +4,13 @@ import 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyCaJfsVuXG9_H61DLdJLBu85Ad_7QSFdik',
-  authDomain: 'vueuseraccounts.firebaseapp.com',
-  databaseURL: 'https://vueuseraccounts.firebaseio.com',
-  projectId: 'vueuseraccounts',
-  storageBucket: 'vueuseraccounts.appspot.com',
-  messagingSenderId: '637582283221',
-  appId: '1:637582283221:web:6767725b249ffc0b2fad5c'
+  apiKey: '**',
+  authDomain: '**',
+  databaseURL: '**',
+  projectId: '**',
+  storageBucket: '**',
+  messagingSenderId: '**',
+  appId: '**'
 }
 // Initialize Firebase
 !firebase.apps.length ? firebase.initializeApp(firebaseConfig) : ''
